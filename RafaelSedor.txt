@@ -1,0 +1,2 @@
+Vamos gerar conflito na main do Carlos
+nova funcionalidade
